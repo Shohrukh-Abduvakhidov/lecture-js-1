@@ -1,22 +1,22 @@
 # Hello js
-![alt text](image.png)
+![alt text](./images/image.png)
 ```
 console.log("Hello js");
 ```
 ## дар файли readme зерин дар бораи забони барномасозии JS каме навистам 
 # Забони барномасозии Js соли 1995 аз тарафи Brandan Eich ихтироъ шуд.
-![Brandan Eich](./other/images.jpg)
+![Brandan Eich](./images/images.jpg)
 # Номи аввалини JS Mocha буд ва баъдан бa (Livescript) номгузори шуд. Соли 1996 забони Livescript ба Javascript номгузори шуд аз он сабабе ки дар соли 1996 забони барномасозии Java бисёр машғул буд ва аз он свбвб онро бо номи Javascript номгузори карданд.
-![ecmascript](./other/images.png)
+![ecmascript](./images/images.png)
 # Боз дар забони барномасозии Js ECMAscript ҳаст ки стандарти структураи забонро медиҳад. Ва боз бо ecmascript ҳама навгониҳоро мебароранд.
 # Аз ҳама навгонии калоне ки дар забони js баровардаги буданд соли 2015 бароварда буданд ки дар ин навгони бисёри багҳоро фикс карда буданд ва фичаҳои нав дароварда буданд.
 
-![typing human](./other/typing.jpg)
+![typing human](./images/typing.jpg)
 # Чвнд роҳи run кардани код ҳаст
 - бо консоли браузер
 - бо командаи node."namefile.js"
 - бо экстешиони code Runner
-![](./other/code-runner.png)
+![](./images/code-runner.png)
 
 
 # Дар  Js 3 - роҳи сохтани variable ҳаст 
@@ -30,7 +30,7 @@ console.log("Hello js");
 # let мисли var истифода бурда мешавад.
 # const - барои значенияҳои махсус истифода бурда мешавад. Example: Pi = 3.14 G=9.8 ва агар мо ҳамин маълумотҳоро иваз кардани бошем иваз карда намешавад.
 
-![](./other/ls%20values.jpg)
+![](./images/ls%20values.jpg)
 #  Дар Js маълумотҳо 8 намуд мешаванд ва ба 2 - гуруҳ ҷудо мешаванд: Primitive & Object
 # Primitive - types 
 - NUumber
