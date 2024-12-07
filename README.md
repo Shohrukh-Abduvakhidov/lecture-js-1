@@ -46,5 +46,9 @@ console.log("Hello js");
 - Arrays
 - Function
 - Many more...
+---
+# if-condition for Js
+![alt text](./images/image-1.png)
 
+# Ташаккури зиёд бештар маълумотҳоро дар линки зерин [link](https://www.canva.com/design/DAGVRMGhGek/BBk6e7-80rD60KOpBBjCUg/view?utm_content=DAGVRMGhGek&utm_campaign=designshare&utm_medium=link&utm_source=editor#5)
 
